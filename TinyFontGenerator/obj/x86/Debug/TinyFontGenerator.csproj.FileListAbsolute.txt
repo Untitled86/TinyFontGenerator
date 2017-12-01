@@ -1,0 +1,27 @@
+C:\Users\Brien\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Brien\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Brien\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Brien\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Brien\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\TinyFontGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Brien\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.DisplayEmulator.resources
+C:\Users\Brien\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Brien\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Brien\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\TinyFontGenerator.csproj.GenerateResource.Cache
+\\samba\cid\USERS\bschultz\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+\\samba\cid\USERS\bschultz\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+\\samba\cid\USERS\bschultz\FontGenerator\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+\\samba\cid\USERS\bschultz\FontGenerator\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+\\samba\cid\USERS\bschultz\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\TinyFontGenerator.csprojResolveAssemblyReference.cache
+\\samba\cid\USERS\bschultz\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.DisplayEmulator.resources
+\\samba\cid\USERS\bschultz\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+\\samba\cid\USERS\bschultz\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+\\samba\cid\USERS\bschultz\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\TinyFontGenerator.csproj.GenerateResource.Cache
+C:\Users\Brien\Documents\GitHub\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\TinyFontGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Brien\Documents\GitHub\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.DisplayEmulator.resources
+C:\Users\Brien\Documents\GitHub\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Brien\Documents\GitHub\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\TinyFontGenerator.csproj.GenerateResource.Cache
+C:\Users\brien\Documents\GitHub\FontGenerator\WindowsFormsApplication4\bin\Debug\TinyFontGenerator.exe
+C:\Users\brien\Documents\GitHub\FontGenerator\WindowsFormsApplication4\bin\Debug\TinyFontGenerator.pdb
+C:\Users\brien\Documents\GitHub\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\TinyFontGenerator.Properties.Resources.resources
+C:\Users\brien\Documents\GitHub\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\TinyFontGenerator.exe
+C:\Users\brien\Documents\GitHub\FontGenerator\WindowsFormsApplication4\obj\x86\Debug\TinyFontGenerator.pdb
